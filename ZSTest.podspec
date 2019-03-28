@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "ZSAlert"
+  s.name         = "ZSTest"
   s.version      = "0.0.1"
   s.summary      = "这是一个描述, 测试描述的长度."
 
