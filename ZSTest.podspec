@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "ZSTest"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "这是一个描述, 测试描述的长度."
 
   s.description  = '这是一个描述, 测试描述的长度这是一个描述, 测试描述的长度这是一个描述, 测试描述的长度这是一个描述, 测试描述的长度'
@@ -29,7 +29,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'ZSTest/**/*'
+  s.source_files = 'ddd/ddd/ZSTest/**/*'
 
   s.dependency 'AFNetworking', '~> 3.2.1'
 
