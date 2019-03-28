@@ -7,7 +7,8 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "AFNetworking.h"
+//#import "AFNetworking.h"
+#import <AFNetworking/AFNetworking.h>
 
 @interface YHBNetworkTool : NSObject
 
