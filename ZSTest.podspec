@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "ZSTest"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "这是一个描述, 测试描述的长度."
 
   s.description  = '这是一个描述, 测试描述的长度这是一个描述, 测试描述的长度这是一个描述, 测试描述的长度这是一个描述, 测试描述的长度'
