@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
   s.author           = { 'YunZhongManMu' => 'yunzhong1075@126.com' }
   s.source           = { :git => 'https://github.com/YunZhongManMu/ZSTest.git', :tag => s.version.to_s }
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '10.0'
 
   s.source_files = 'ddd/ddd/ZSTest/**/*'
 
