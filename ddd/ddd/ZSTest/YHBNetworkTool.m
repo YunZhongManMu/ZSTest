@@ -7,7 +7,7 @@
 //
 
 #import "YHBNetworkTool.h"
-
+//
 typedef NS_ENUM(NSInteger, RequestType) {
     RequestTypeGet = 0,
     RequestTypePost,
